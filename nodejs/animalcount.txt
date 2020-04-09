@@ -1,0 +1,8 @@
+{ 
+cat : 3 , 
+dog : 3 , 
+monkey : 1 , 
+rat : 1 , 
+man : 1 , 
+ran : 1 , 
+ } 

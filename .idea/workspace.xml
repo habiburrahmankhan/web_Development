@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c64a495-8dd7-4820-823e-1a18598e491b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/deployment" />
+  </component>
+  <component name="ProjectId" id="1PxeaZCmEcVMagUeZPLug9qMCUQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Handlebars" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mysqlscripts/mysql_express_server/views" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.server.js">
+    <configuration name="create_table.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="create_table.js" working-dir="$PROJECT_DIR$/mysqlscripts">
+      <method v="2" />
+    </configuration>
+    <configuration name="select.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="select.js" working-dir="$PROJECT_DIR$/mysqlscripts">
+      <method v="2" />
+    </configuration>
+    <configuration name="server.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="server.js" working-dir="$PROJECT_DIR$/router-example">
+      <method v="2" />
+    </configuration>
+    <configuration name="server.js (3)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="server.js" working-dir="$PROJECT_DIR$/express_sample">
+      <method v="2" />
+    </configuration>
+    <configuration name="server.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="server.js" working-dir="$PROJECT_DIR$/mysqlscripts/mysql_express_server">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.server.js" />
+        <item itemvalue="Node.js.select.js" />
+        <item itemvalue="Node.js.create_table.js" />
+        <item itemvalue="Node.js.server.js (3)" />
+        <item itemvalue="Node.js.server.js (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c64a495-8dd7-4820-823e-1a18598e491b" name="Default Changelist" comment="" />
+      <created>1566820239079</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566820239079</updated>
+      <workItem from="1566820241181" duration="15000" />
+      <workItem from="1566916823548" duration="2369000" />
+      <workItem from="1567278494999" duration="484000" />
+      <workItem from="1569023113381" duration="435000" />
+      <workItem from="1569041724305" duration="3275000" />
+      <workItem from="1570561592165" duration="2130000" />
+      <workItem from="1570830616423" duration="674000" />
+      <workItem from="1577973936560" duration="134000" />
+      <workItem from="1578401095621" duration="1831000" />
+      <workItem from="1578604089376" duration="2516000" />
+      <workItem from="1581277172133" duration="4345000" />
+      <workItem from="1581370028911" duration="1646000" />
+      <workItem from="1581526287605" duration="3545000" />
+      <workItem from="1581939955834" duration="439000" />
+      <workItem from="1584260654938" duration="4173000" />
+      <workItem from="1584311198851" duration="586000" />
+      <workItem from="1584407487693" duration="3000" />
+      <workItem from="1585769897394" duration="6055000" />
+      <workItem from="1586031378938" duration="1738000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/scriptbasic.js</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/example1.js</url>
+          <line>30</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

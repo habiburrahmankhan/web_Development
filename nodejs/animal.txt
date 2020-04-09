@@ -1,0 +1,10 @@
+cat
+dog
+cat
+monkey
+rat
+dog
+cat
+man
+ran
+dog

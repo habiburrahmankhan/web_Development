@@ -1,0 +1,22 @@
+div{
+    margin: 100px;
+    padding: 50px;
+    height: 70px;
+    width: 50px;
+}
+#div1
+{
+    background-color: red;
+
+}
+#div1:hover
+{
+    background-color: yellow;
+
+    height: 20px;
+    transition: background-color 2s , height 4s;
+}
+#div2
+{
+    background-color: green;
+}
